@@ -6,9 +6,9 @@ It is on the [App Store](https://apps.apple.com/fi/app/id6757228735?l=en) and [G
 
 Written by Kenneth Minkinen. I'm half Estonian and half Finnish, an EU citizen relocating to Tallinn, and I'm looking for full-stack or product engineering work there. I can walk through any part of the code on a call. Message me on [LinkedIn](https://www.linkedin.com/in/kenneth-minkinen-118643281/).
 
-<img src="assets/tsemppi-strip.png" width="632" alt="Three Tsemppi screens: home with the strength map, a live workout logging a new record, and the progress index with recovery">
+<img src="assets/tsemppi-strip.png" alt="Tsemppi's four App Store screenshots in Finnish: the strength map on Koti, the share card after a workout, a workout in the community feed, and an exercise page with the Apple Watch app">
 
-<sub>Left to right: the strength map on the home screen, a live workout that has just logged a record, and the progress index with recovery. The UI is Finnish, and the frames come from the demo videos on tsemppiapp.fi.</sub>
+<sub>The App Store screenshots as of September 2026, in Finnish. Left to right: the strength map on Koti, the share card after a workout, a workout in the community feed, and an exercise page with the Apple Watch app's rest timer and set logging.</sub>
 
 ## The product
 
